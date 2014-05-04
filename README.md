@@ -1,4 +1,4 @@
-template1
-=========
+Simple blog system 
+==================
 
 NodeJS-Express3-Handlebars-Grunt
